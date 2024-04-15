@@ -25,35 +25,44 @@ Go to the folder where you clone the project, open a terminal and follow these s
 ---
 <h2 align="center"> 💻 Project Short Links - Tabela no BD - PostgreSQL </h2>
 <div align="center">
- <img src="./src/assets/public/0 - pgAdmin 4 -  Tabela no BD - PostgreSQL.png" width="400px" alt="Home Image"/>
+ <img src="./src/assets/0 - pgAdmin 4 -  Tabela no BD - PostgreSQL.png" width="400px" alt="Home Image"/>
 </div>
 
-<h2 align="center"> 🤩 User registration - Page</h2>
+<h2 align="center"> 💻 Project Short Links - App - Docker </h2>
 <div align="center">
- <img src="./front/public/user_02_front.png" width="400px" alt="Home Image"/>
+ <img src="./src/assets/1 - short-links - App - Docker Desktop.png" width="400px" alt="Home Image"/>
 </div>
 
-<h2 align="center"> 📑 User in the SQL database - Page</h2>
+<h2 align="center"> 💻 Project Short Links - DBeaver </h2>
 <div align="center">
- <img src="./front/public/SQL_user.png" width="800px" alt="Home Image"/>
+ <img src="./src/assets/2  - DBeaver - short_links.png" width="400px" alt="Home Image"/>
 </div>
 
-<h2 align="center"> 💻 SQL database -  Page</h2>
+<h2 align="center"> 💻 Project Short Links - Consultation of created links </h2>
 <div align="center">
- <img src="./front/public/SQL_back.png" width="1400px" alt="Home Image"/>
+ <img src="./src/assets/7 -Rota - Consulta dos links criados.png" width="400px" alt="Home Image"/>
+</div>
+
+<h2 align="center"> 💻 Project Short Links - Route to view the code created with the link </h2>
+<div align="center">
+ <img src="./src/assets/8 -Rota de visualizar o code criado com o link.png" width="400px" alt="Home Image"/>
+</div>
+
+
+<h2 align="center"> 💻 Project Short Links - Direction route </h2>
+<div align="center">
+ <img src="./src/assets/9 - Rota de direcionameto para a rota criada.png" width="400px" alt="Home Image"/>
+</div>
+
+
+<h2 align="center"> 💻 Project Short Links - Most visited link route </h2>
+<div align="center">
+ <img src="./src/assets/10 - Rota link mais acessado.png" width="400px" alt="Home Image"/>
 </div>
 
 
 
 ---
-#### User registration
-- You can add user, email, telephone and date of birth to the system;
-- Can remove complete user from the system;
-- You cannot leave fields unfilled,
-- Receive a confirmation message when creating, deleting or when a field is missing.
-
----
-
 
 ## 🚀 Technologies
 
@@ -72,6 +81,9 @@ The project was developed using these technologies:
 - [Docker](https://www.docker.com)
 
 
+#### ✒️ Authors
+
+ * ** #Rocketseat **
 
 
 #### 📝 Licença
